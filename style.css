@@ -1,4 +1,10 @@
- /* shared style */
+.action :hover{
+   background-color:yellow;
+  font-size: 18px;
+}
+
+
+/* shared style */
  .secondary-bg {
     background-color: #F1F1F3;
  }
@@ -248,6 +254,39 @@
     font-size: 16px;
     font-weight: 500;
  }
+ .challenge-1{
+   width: 1280px;
+   height: 256px;
+   padding: 48px 24px;
+   background-color: #FFFFFF;
+   margin: 32px auto;
+  
+ 
+ }
+ 
+ .chall{
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   color: #0e0e0ed2;
+   background-image: url(./images/quote-bg.png);
+   background-repeat: no-repeat;
+    
+ }
+  
+ .dadu{
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 24px;
+   color: #0e0e0ed2;
+ }
+ .neta{
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   color: #0e0e0e88;
+   
+ }
 
  /* news section */
  .news-section {
@@ -489,5 +528,54 @@ text-align: center;
       font-weight: 500;
        margin-left: 850px;
    }
+   .newsletter-section {
+      background-color: #C6E4D6;
+      text-align: center;
+      padding: 20px;
+      border-radius: 10px;
+      width: 1280px;
+      height: 395px;
+      margin: 32px auto;
 
+  }
+  
+  .newsletter-section h2 {
+      font-size: 40px;
+      font-weight: bold;
+      color: #0E0E0E;
+  }
+  
+  .newsletter-section p {
+      font-size: 16px;
+      color: #0e0e0ea2;
+      font-weight: 400;
+  }
+  
+  .newsletter-section form {
+      margin-top: 20px;
+  }
+  
+  .newsletter-section input[type="email"] {
+      padding: 10px;
+      width: 500px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+  }
+  
+  .newsletter-section button {
+      padding: 10px 20px;
+      background-color: #006400;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      
+  }
+  
+  .newsletter-section .promise {
+      margin-top: 10px;
+      font-size: 12px;
+      color: #777;
+  }
+  
 
