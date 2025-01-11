@@ -111,3 +111,121 @@ height: 38px;
    width: 1280px;
    height: 48px;
 }
+.future-boxes{
+   display: flex;
+   width: 1280px;
+   height: 325px;
+   gap: 24px;
+   margin: 32px auto;
+}
+.future-box1{
+   width: 410px;
+   height: 325px;
+   padding: 32px 32px;
+   border: none;
+   border-radius: 16px;
+   background-color: #548ff52a;
+}
+.card-icon{
+   width: 64px;
+   height: 64px;
+   margin-bottom: 24px;
+}
+.digital-title{
+   width: 346px;
+   height: 24px;
+   font-size: 20px;
+   font-weight: bold;
+   color: #0e0e0ed2;
+   margin-bottom: 12px;
+}
+.digital-description{
+   width: 346px;
+   height: 72px;
+   font-size: 16px;
+   font-weight: 400;
+   color: #0e0e0eba;
+   line-height: 24px;
+   margin-bottom: 24px;
+}
+.share-btn{
+   width: 122px;
+   height: 41px;
+   padding: 11px 20px;
+   color: #FFFFFF;
+   background-color: #5490F5;
+   border: none;
+   border-radius: 8px;
+   margin-bottom: 32px;
+   font-size: 16px;
+   font-weight: 500;
+}
+.future-box2{
+   width: 410px;
+   height: 325px;
+   padding: 32px 32px;
+   border: none;
+   border-radius: 16px;
+   background-color:#C6E4D6;
+}
+.digital-des{
+   width: 346px;
+   height: 48px;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   color: #0e0e0eba;
+   margin-bottom: 48px;
+}
+.share-btns{
+   width: 122px;
+   height: 41px;
+   padding: 11px 20px;
+   color: #FFFFFF;
+   background-color: #09A15C;
+   border: none;
+   border-radius: 8px;
+   margin-bottom: 32px;
+   font-size: 16px;
+   font-weight: 500;
+}
+.future-box3{
+   width: 410px;
+   height: 325px;
+   padding: 24px 24px;
+   border: none;
+   border-radius: 16px;
+   background-color:#F7EBCF;
+}
+.digital-tit{
+   width: 362px;
+   height: 24px;
+   font-size: 20px;
+   font-weight: bold;
+   color: #0e0e0ed2;
+   margin-bottom: 12px;
+}
+.digital-dess{
+   width: 362px;
+   height: 48px;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   color: #0e0e0eba;
+   margin-bottom: 64px;
+}
+.share-btnss{
+   width: 122px;
+   height: 41px;
+   padding: 11px 20px;
+   color: #FFFFFF;
+   background-color: #FFC239;
+   border: none;
+   border-radius: 8px;
+   margin-bottom: 24px;
+   font-size: 16px;
+   font-weight: 500;
+}
+
+   
+   
